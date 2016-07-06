@@ -1,0 +1,54 @@
+elders :
+  - name: "Dustin Sparks"
+    img : "http://photos1.meetupstatic.com/photos/member/4/0/e/4/member_46456612.jpeg"
+    description : "What Dustin lacks in size and strength, he makes up for in mental acuity. Former Hand of the King in his father's absence, he also served as Master of Coin on the Small Council."
+
+  - name: "Derek Campbell"
+    img : "http://photos4.meetupstatic.com/photos/member/b/a/7/e/member_163727742.jpeg"
+    description : "Derek is the bastard son of Lord Winter Summerside. He is known as the Bastard of Badeque. Derek is sadistic, unpredictable, and fearless"
+
+  - name: "Evan Porter"
+    img: "http://photos2.meetupstatic.com/photos/member/d/8/6/0/member_163435392.jpeg"
+    description : "Evan is a worshiper of the Old Gods. He has the unique ability of greensight and the ability to warg. "
+
+  - name: "Matt Duffy"
+    img: "http://photos3.meetupstatic.com/photos/member/2/5/8/2/member_162429602.jpeg"
+    description : "HODOR!!"
+
+  - name: "Michael Easter"
+    img: "http://photos4.meetupstatic.com/photos/member/4/b/c/0/member_156379392.jpeg"
+    description : "A former Commander of the Night's Watch, Michael now spends his days being resurrected and having sword fights. "
+
+  - name: "Sean Whalley"
+    img: "http://photos3.meetupstatic.com/photos/member/c/7/e/4/member_159531172.jpeg"
+    description : "Former Khal of the Dothraki. Sean took a wound in battle and was treated by an evil Witch which left him in blank mindset, no longer able to ride his horse"
+
+importantlinks :
+  - category: "Scooter"
+    links:
+      - name: "The Peoples Scooter"
+        url: "http://peidevs.github.io/Event_Resources"
+      - name: "Angular Scooter"
+        url: "http://peidevs.github.io/Scooter"
+
+  - category: "Social"
+    links:
+      - name: "Request a Slack Invite"
+        url: "https://docs.google.com/forms/d/1hNruzn7fb8Wu7BbuGVvgbeO0-HTNnDrcCJAQ24wZTBs/viewform"
+      - name: "Slack Team"
+        url: "peidevs.slack.com"
+      - name: "Blog (Retired)"
+        url: "http://peidevs.tumblr.com/"
+      - name: "Photos"
+        url: "http://www.flickr.com/photos/100794919@N05/"
+
+sponsors :
+  - name: "Binary Star"
+    image: "http://photos2.meetupstatic.com/photos/sponsor/1/1/5/8/iab120x90_2584440.jpeg"
+    url: "http://www.binarystar.ca/"
+  - name: "Jetbrains"
+    image: "http://photos1.meetupstatic.com/photos/sponsor/2/c/2/5/iab120x90_2531301.jpeg"
+    url: "https://www.jetbrains.com/"
+  - name: "O'Reilly Media"
+    image: "http://www.oreilly.com/partner_file/orm_partner_meerkats_120x90.png"
+    url: "http://www.oreilly.com/pub/cpc/5401"

@@ -1,15 +1,22 @@
 ---
-layout: page
-title: About
+layout: thumbs
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Founded during the first long winter, during the battle with the First men. The PEI Developers group continues the power
+struggle today during the battle of the 6 kings.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<div class="row">
+{% for elders in site.data.group.elders %}
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="{{ elders.img }}" alt="{{ elders.name }}">
+      <div class="caption">
+        <h4>{{elders.name}}</h4>
+        <p>{{ elders.description }}</p>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>

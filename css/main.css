@@ -1,0 +1,28 @@
+
+.outside-link {
+    width: 81px;
+    height: 26px;
+}
+
+.articles li {
+    list-style: none;
+}
+
+.thumbnail {
+    height: 445px;
+}
+.thumbnail img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+footer {
+    padding-top: 10px;
+}
+
+a { color: inherit; }
+
+.sponsor {
+    display: block;
+    padding-bottom: 5px;
+}
