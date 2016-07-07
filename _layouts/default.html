@@ -14,7 +14,7 @@
                 {% for menuItem in site.data.navigation.menu %}
                     {% assign url = page.url|remove:'index.html' %}
                     <li role="presentation" {% if url == menuItem.url %}class="active"{% endif %}>
-                        <a href="{{ menuItem.url }}">{{ menuItem.name }}</a>
+                        <a href="{{ menuItem.url | prepend: site.baseurl }}">{{ menuItem.name }}</a>
                     </li>
                 {% endfor %}
             </ul>
