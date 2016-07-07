@@ -1,10 +1,10 @@
 #navigation Menu
 menu :
   - name : "Home"
-    url : ""
+    url : "/"
   - name : "Our Mission"
-    url : "mission/"
+    url : "/mission/"
   - name : "News"
-    url : "news/"
+    url : "/news/"
   - name : "About"
-    url : "about/"
+    url : "/about/"
