@@ -4,30 +4,14 @@
 {% include head.html %}
 
 <body lang="en">
-
-<div class="container">
-    {% include header.html %}
-
-    <div class="row">
-        <div class="col-md-2">
-            <ul class="nav nav-pills nav-stacked">
-                {% for menuItem in site.data.navigation.menu %}
-                    {% assign url = page.url|remove:'index.html' %}
-                    <li role="presentation" {% if url == menuItem.url %}class="active"{% endif %}>
-                        <a href="{{ menuItem.url }}">{{ menuItem.name }}</a>
-                    </li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="col-md-10">
-            {{ content }}
-        </div>
+    <div>
+        {% include header.html %}
+        {% include menu.html %}
+        <article>
+                {{ content }}
+        </article>
+        {% include footer.html %}
     </div>
-
-    {% include footer.html %}
-
-</div>
-
 </body>
 
 </html>
