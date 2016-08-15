@@ -1,48 +1,31 @@
-/* non-prod styles */
-nav, header, article, footer {
-    border: 1px solid aqua;
-}
+@import 'reset.css';
+@import 'aboutus.css';
 
 /* General Styles */
-body {
-    width : 1200px;
-    margin: 0 auto;
-}
-
-.outside-link {
-    width: 10%;
-    height: 10%;
-}
-
-li {
-    list-style: none;
-}
-
-footer {
-    padding-top: 10px;
-}
-
 a { color: inherit; }
 
-/* Flexbox layout */
-.wrapper {
+
+nav ul { 
     display: flex;
-    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    min-height: 50px;
+    border: 1px dashed purple;
 }
 
-header {
-    flex: 0 0 100%;
-}
-
-nav {
-    flex: 0 0 150px;
-}
-
-article {
+nav ul li {
     flex: 1 1;
 }
 
-footer { 
-    flex: 0 0 100%;
-    text-align: right;
+header { 
+    color: #fff;
+    background-color: #000;
+    width: 100%;
+    min-height: 250px;
+}
+
+header h1 {
+    font-size: 55px;
+    padding-top: 85px;
+    margin-top:0px;
 }

@@ -7,9 +7,8 @@ Founded during the first long winter, during the battle with the First men. The 
 struggle today during the battle of the 6 kings.
 
 
-<div class="row">
+<div class="aboutus">
 {% for elders in site.data.group.elders %}
-  <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="{{ elders.img }}" alt="{{ elders.name }}">
       <div class="caption">
@@ -17,6 +16,5 @@ struggle today during the battle of the 6 kings.
         <p>{{ elders.description }}</p>
       </div>
     </div>
-  </div>
 {% endfor %}
 </div>
