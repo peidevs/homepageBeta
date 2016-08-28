@@ -1,10 +1,19 @@
 <header>
     <div>
-        <h1 class="">PEI Developers</h1>
+        <div class="title">PEI Developers</div>
         <aside>Since 2012</aside>
         
         <div>Our Next Meetup is January 1, 1970</div>
     </div>
+
+    <nav>
+        {% assign url = page.url|remove:'index.html' %}
+        {% for menuItem in site.data.navigation.menu %} 
+        <a href="{{ menuItem.url }}" {% if url == menuItem.url %}class="active" {% endif %}>
+                {{ menuItem.name }}
+        </a>
+        {% endfor %}
+    </nav>
 </header>
 
 <!-- PEi devs in white to the left, some color background. to the right is the ticker, annoncing our next event and a search? -->

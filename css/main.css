@@ -1,31 +1,58 @@
 @import 'reset.css';
 @import 'aboutus.css';
+@import 'responsive.css';
 
 /* General Styles */
-a { color: inherit; }
+a { 
+    color: inherit; 
+    text-decoration: none;
+}
 
+article {
+    margin: 10px 0px;
+}
 
-nav ul { 
+nav,
+article,
+footer { 
+    padding: 0px 45px;
+}
+
+nav { 
     display: flex;
     align-items: center;
     text-align: center;
-    min-height: 50px;
-    border: 1px dashed purple;
+    line-height: 3em;
 }
 
-nav ul li {
+nav a{
     flex: 1 1;
+    border: 1px solid black;
+    border-radius: 8px 8px 0px 0px;
+    height: 100%;
+}
+
+nav a:hover {
+    background-color: #b0b0b0;
+}
+
+nav a.active {
+    background-color: #505050;
 }
 
 header { 
+    font-family: 'Bree Serif', serif;
     color: #fff;
-    background-color: #000;
+    background-color: #032;
     width: 100%;
-    min-height: 250px;
 }
 
-header h1 {
+header > div {
+    padding-top: 30px;
+    padding-left: 45px;
+    padding-bottom: 10px;
+}
+
+header div.title {
     font-size: 55px;
-    padding-top: 85px;
-    margin-top:0px;
 }
