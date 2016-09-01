@@ -8,14 +8,19 @@ a {
     text-decoration: none;
 }
 
-article {
-    margin: 10px 0px;
+nav{
+    padding: 0px 45px;
 }
 
-nav,
-article,
 footer { 
-    padding: 0px 45px;
+    padding: 10px 45px; 
+    text-align: right;   
+}
+
+
+article {
+    margin: 0px 45px;
+    padding: 10px 5px 5px 5px;
 }
 
 nav { 
@@ -38,6 +43,7 @@ nav a:hover {
 
 nav a.active {
     background-color: #505050;
+    border-bottom: none;
 }
 
 header { 

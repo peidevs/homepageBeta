@@ -9,7 +9,8 @@
     <nav>
         {% assign url = page.url|remove:'index.html' %}
         {% for menuItem in site.data.navigation.menu %} 
-        <a href="{{ menuItem.url }}" {% if url == menuItem.url %}class="active" {% endif %}>
+        <a href="{{ menuItem.url | prepend : site.baseurl }}" {% if url == menuItem.url %}class="active" {% endif %}>
+                {% if menuItem.img %} <img src="{{ menuItem.img }}">{% endif %} 
                 {{ menuItem.name }}
         </a>
         {% endfor %}

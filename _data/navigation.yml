@@ -11,5 +11,7 @@ menu :
     url : https://www.meetup.com/pei-developers/
   - name : Twitter
     url : https://www.twitter.com/peidevs
+    img : /images/twitter.png
   - name : GitHub
     url : https://www.github.com/peidevs
+    img : /images/github.png
