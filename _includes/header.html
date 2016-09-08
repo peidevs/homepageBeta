@@ -1,27 +1,52 @@
-<header class="jumbotron">
-    <div class="row">
-
-    <div class="col-md-3">
-        <img src="{{ site.baseurl }}/images/peiFlag.png" width="200px" height="150px">
-    </div>
-    <div class="col-md-9">
-        <h1 class="">PEI Developers</h1>
-
-        <a href="https://www.meetup.com/PEI-Developers"><img src="{{ site.baseurl }}/images/meetup.jpeg" alt="meetup @ PEIDevs" class="outside-link"/></a>
-        <a href="https://twitter.com/peidevs" class="twitter-follow-button" data-show-count="false" data-size="large"
-           data-show-screen-name="false">Follow @peidevs</a>
-        <script>!function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-            if (!d.getElementById(id)) {
-                js = d.createElement(s);
-                js.id = id;
-                js.src = p + '://platform.twitter.com/widgets.js';
-                fjs.parentNode.insertBefore(js, fjs);
-            }
-        }(document, 'script', 'twitter-wjs');</script>
-
-        <a href="https://github.com/{{ site.github_username }}"><img src="{{ site.baseurl }}/images/GitHub_Logo.png" alt="Link to Github" class="outside-link"></a>
-    </div>
+<header>
+    <div>
+        <div class="title">PEI Developers</div>
+        <aside>Since 2012</aside>
+        
+        <div>Our Next Meetup is <span id="next_meetup_date"></span></div>
     </div>
 
+    <nav>
+        {% assign url = page.url|remove:'index.html' %}
+        {% for menuItem in site.data.navigation.menu %} 
+        <a href="{{ menuItem.url }}" {% if url == menuItem.url %}class="active" {% endif %}>
+                {{ menuItem.name }}
+        </a>
+        {% endfor %}
+    </nav>
 </header>
+
+<script type="text/javascript">
+    (function(){
+        var getDateOfMeetup = function( date, dayOfWeek, weekOfMonth ){
+            //First day of the month
+            date.setDate( 1 );
+            
+            //calculate the first thursday of the month
+            var offset = 0;
+            if( date.getDay() <= dayOfWeek){
+                //early in the week
+                offset = dayOfWeek - date.getDay();
+            }else{
+                //later in the week needs to wrap to the next week
+                offset = dayOfWeek - date.getDay() + 7;
+            }
+            //offset the day to the first instance of the month
+            date.setDate( date.getDate() + offset );
+
+            //offset the week
+            date.setDate( date.getDate() + ((weekOfMonth - 1) * 7) );
+
+            //in case meetup for month has already passed, add a month
+            if( new Date() > date){
+                date.setMonth( date.getMonth() + 1);
+                date = getDateOfMeetup( date, dayOfWeek, weekOfMonth);
+            }
+
+            return date;
+        }
+
+        var date = getDateOfMeetup( new Date(), 4, 2 ); 
+        document.getElementById("next_meetup_date").innerHTML = date.toLocaleDateString( "en-ca" );
+    })();
+</script>

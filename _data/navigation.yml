@@ -1,10 +1,15 @@
-#navigation Menu
 menu :
-  - name : "Home"
-    url : "/"
-  - name : "Our Mission"
-    url : "/mission/"
-  - name : "News"
-    url : "/news/"
-  - name : "About"
-    url : "/about/"
+  - name : Home
+    url : /
+  - name : News
+    url : /news/
+  - name : About
+    url : /about/
+  - name : FAQ
+    url : /faq/
+  - name: Meetup
+    url : https://www.meetup.com/pei-developers/
+  - name : Twitter
+    url : https://www.twitter.com/peidevs
+  - name : GitHub
+    url : https://www.github.com/peidevs
