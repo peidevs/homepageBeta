@@ -10,10 +10,7 @@ title: PEI Developers
 email: peidevs@gmail.com
 description: "Home of the PEI Developers User Group"
 baseurl: "/sampleJekyl" # the subpath of your site, e.g. /blog
-url: "http://swhalley.github.io" # the base hostname & protocol for your site
-twitter_username: peidevs
-github_username:  peidevs
-
+#url: "http://swhalley.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

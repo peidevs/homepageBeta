@@ -8,21 +8,16 @@ a {
     text-decoration: none;
 }
 
-nav{
-    padding: 0px 45px;
-}
-
-footer { 
-    padding: 10px 45px; 
-    text-align: right;   
-}
-
-
 article {
     margin: 0px 45px;
     padding: 10px 5px 5px 5px;
 }
 
+nav{
+    padding: 0px 45px;
+}
+
+/* Header and navigation */
 nav { 
     display: flex;
     align-items: center;
@@ -46,6 +41,11 @@ nav a.active {
     border-bottom: none;
 }
 
+nav img {
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
 header { 
     font-family: 'Bree Serif', serif;
     color: #fff;
@@ -61,4 +61,13 @@ header > div {
 
 header div.title {
     font-size: 55px;
+}
+
+/* Footer */
+footer {
+    padding: 10px 45px;
+}
+
+footer > div:nth-child(2){ 
+    text-align: right;   
 }
