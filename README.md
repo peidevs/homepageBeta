@@ -1,9 +1,10 @@
-# sampleJekyl
-Jekyl Test bed. Trying out a few things
+# Future site of the PEI Developers group.
+This is a Jekyll site which is a work in progress. The site will host the PEI developers homeapage and news and important links. 
+Still in the early phases.
 
-This is a repo for me to experiment with Jekyl, and probably is broken. 
+Any and all pull requests are welcome
 
 # local command
 ```
-jekyll serve --config _config.yml,_local.yml
+jekyll serve --config _config.yml,_local.yml --watch
 ```
