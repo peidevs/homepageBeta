@@ -30,10 +30,7 @@ The evening of visiting, drinking and snacking set the tone for what was to be a
 
 {{< tweet 370331104802140160 >}}
 
-
-.
-
-{{< tweet 371247917962506240 >}}
+<span style="font-size: 1rem;">{{&lt; tweet 371247917962506240 &gt;}}</span>
 
 
 The power bars were in place.  The network was spewing packets through the air.  The chairs were congregated together and the coffee had arrived.  It was time to open the doors as the builders arrived; flooding the space with creativity and drive.
