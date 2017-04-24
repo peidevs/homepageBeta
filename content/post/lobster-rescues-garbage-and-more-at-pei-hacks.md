@@ -8,8 +8,6 @@ thumbnail = ""
 title = "Lobster, Rescues, Garbage and more at PEI Hacks!"
 
 +++
-
-
 The first PEI Hacks hackathon hosted by the PEI Developers is in the books. This was an amazing day where a group of over 30 software developers came together for 8 intense hours to create working applications at the Holman Centre in Summerside, PEI.
 
 
@@ -95,7 +93,7 @@ Ground Search and Rescue typically has a hierarchy of a search commander, operat
 code: [http://github.com/rypalmer/peddlr](http://github.com/rypalmer/peddlr)
 
 
-{{< tweet  371425164971372544 >}}
+{{< tweet 371425164971372544 >}}
 
 
 Not only did Ryan Palmer provide the refreshments, he also worked on a team for the day that delivered a very polished app.  On PEI, lobster fisherman sell direct to consumers from trucks in transient locations (e.g. a parking lot). Buyers are enthusiastic about fresh lobster at direct prices, but may have difficulty locating the sellers. This app matches buyers and sellers by allowing each to register their location. For tech, the app uses Django and a responsive design for mobile devices.
