@@ -8,6 +8,8 @@ thumbnail = ""
 title = "PEI Developers Winter Hackathon 2015"
 
 +++
+
+
 On Jan 24 developers, designers, artists, and makers of all types came together at the PEI Developers Winter Hackathon!
 
 
@@ -20,7 +22,10 @@ The group gathered and everyone was labeled. The breakfast arrived from the [Rec
 
 {{< tweet 559032528087314432 >}}
 
+
 ![](/uploads/2017/04/24/16370923412_a98695bb9f_z.jpg)
+
+
 
 
 Now that everyone was well caffeinated and had met each other, it was time for [Bob Shand](https://twitter.com/feralbob) to intro the day!
@@ -35,19 +40,19 @@ Now that everyone was well caffeinated and had met each other, it was time for [
 With the schedule understood and the rules laid out, it was time to get down to business. Some consider the next part of the day to be the most creative part of a hackathon: The Pitch. This was an open themed hackathon, and we had no shortage of ideas to be built in one day.
 
 
-{{< tweet 558981918734422016 >}}
+{{< tweet 558981918734422016 >}}
 
 
 Everyone in attendance had an opportunity to pitch one or more ideas for the day. Everyone who had an idea got 1 minute to convince the group their idea should get a team.
 
 
-{{< tweet 558995623564021760 >}}
+{{< tweet 558995623564021760 >}}
 
 
 The wall rejected all projects, so we moved to a table. Each idea was laid out and everyone at the event put their name on the idea they liked best. Viola, teams are formed!
 
 
-{{< tweet 558996329637359616 >}}
+{{< tweet 558996329637359616 >}}
 
 
 **12 Hours of Blood, Sweat, & Tears! Well, mainly typing. But with Great Conviction...**
@@ -56,25 +61,28 @@ The wall rejected all projects, so we moved to a table. Each idea was laid out a
 Now begins the building. The teams quickly formed and moved on to vetting and scoping what they could accomplish in 12 hours. By the end of the event, we would see working applications for 8 vastly different projects. The theme was open for this event and that resulted in a wide range of applications being built. Web apps, mobile apps, games, virtual reality, and hardware interfacing apps were all being constructed.
 
 
-{{< tweet 558997703997538305 >}}
+{{< tweet 558997703997538305 >}}
 
 
-{{< tweet 559033923733561346 >}}
+{{< tweet 559033923733561346 >}}
 
 
-{{< tweet 559092433183858689 >}}
+{{< tweet 559092433183858689 >}}
+
 
 ![](/uploads/2017/04/24/16376955305_13a81c5f9a_z.jpg)
+
+
 
 
 The pitches turned to white boarding; the white boarding turned to team discussions; the discussions turned to code. The energy from the morning turned to focus through the day. All the teams had carved out their space and were heads down. There was a significant amount of cross team help at this event. If one team needed help with a specific technology, someone from another team would step up. What ever storms may have been brewing outside could not compare to the fury of creativity that was raging inside. But, like all storms, they needed fuel. Lunch and dinner arrived and the hacking continued!
 ![](/uploads/2017/04/24/16376946825_88d881fdda_z.jpg)
 
 
-{{< tweet 559031470036369409 >}}
+{{< tweet 559031470036369409 >}}
 
 
-{{< tweet 559135020326334464 >}}
+{{< tweet 559135020326334464 >}}
 
 
 **Demo Time!**
@@ -92,7 +100,7 @@ Source: [https://github.com/evanepio/VRCBR/tree/v1.0](https://github.com/evanepi
 The first team to demo was made up of huge comic book fans who were also very lazy. They created a virtual comic book reader for the Oculus with the goal of being able to turn pages through head motions alone. Look Mom, no hands!
 
 
-{{< tweet 559019737951535104 >}}
+{{< tweet 559019737951535104 >}}
 
 
 **VR Darts**
@@ -167,15 +175,21 @@ Thank you to all our supporters! In addition to the supporters mentioned above, 
 
 {{< tweet 558693439723044864 >}}
 
+
 {{< tweet 556618603286773760 >}}
+
 
 {{< tweet 558669940409257984 >}}
 
+
 {{< tweet 559056450719186945 >}}
+
 
 {{< tweet 557701065517572097 >}}
 
+
 {{< tweet 559077113211650049 >}}
+
 
 {{< tweet 559004031176417280 >}}
 ![](/uploads/2017/04/24/table.jpg)
