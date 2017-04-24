@@ -2,7 +2,6 @@
 categories = []
 date = "2015-03-29"
 description = ""
-draft = true
 tags = []
 thumbnail = ""
 title = "Our Mission"
