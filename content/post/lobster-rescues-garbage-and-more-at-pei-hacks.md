@@ -7,8 +7,6 @@ thumbnail = ""
 title = "Lobster, Rescues, Garbage and more at PEI Hacks!"
 
 +++
-
-
 The first PEI Hacks hackathon hosted by the PEI Developers is in the books. This was an amazing day where a group of over 30 software developers came together for 8 intense hours to create working applications at the Holman Centre in Summerside, PEI.
 
 
@@ -24,14 +22,14 @@ The weekend started off with a social night pulled together by [Ryan Palmer](htt
 The evening of visiting, drinking and snacking set the tone for what was to be an epic weekend of code.
 
 
-**Saturday, August 24th 10:00:00 **- The Convergence of Nerds
+**Saturday, August 24th 10:00:00**- The Convergence of Nerds
 ![](/uploads/2017/04/24/9597466641_c5ccdb41be_z.jpg)
 
 
 {{< tweet 370331104802140160 >}}
 
 
-<span style="font-size: 1rem;">{{&lt; tweet 371247917962506240 &gt;}}</span>
+{{< tweet 371247917962506240 >}}
 
 
 The power bars were in place.  The network was spewing packets through the air.  The chairs were congregated together and the coffee had arrived.  It was time to open the doors as the builders arrived; flooding the space with creativity and drive.
