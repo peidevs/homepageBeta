@@ -8,8 +8,6 @@ thumbnail = ""
 title = "PEI Developers Winter Hackathon 2015"
 
 +++
-
-
 On Jan 24 developers, designers, artists, and makers of all types came together at the PEI Developers Winter Hackathon!
 
 
@@ -20,14 +18,15 @@ Early on Saturday, January 24th, 2015 the doors opened at the [Atlantic Technolo
 The group gathered and everyone was labeled. The breakfast arrived from the [Receiver Coffee Co](https://twitter.com/receivercoffee) courtesy of [EAMobile](https://twitter.com/EAMobile).
 
 
-{{< tweet 559032528087314432 >}}
+{{< tweet 559032528087314432 >}}
+
 ![](/uploads/2017/04/24/16370923412_a98695bb9f_z.jpg)
 
 
 Now that everyone was well caffeinated and had met each other, it was time for [Bob Shand](https://twitter.com/feralbob) to intro the day!
 
 
-{{< tweet 558978689732321282 >}}
+{{< tweet 558978689732321282 >}}
 
 
 **The Pitch**
@@ -64,6 +63,7 @@ Now begins the building. The teams quickly formed and moved on to vetting and sc
 
 
 {{< tweet 559092433183858689 >}}
+
 ![](/uploads/2017/04/24/16376955305_13a81c5f9a_z.jpg)
 
 
@@ -179,5 +179,3 @@ Thank you to all our supporters! In addition to the supporters mentioned above, 
 
 {{< tweet 559004031176417280 >}}
 ![](/uploads/2017/04/24/table.jpg)
-
-
