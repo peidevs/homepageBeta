@@ -2,12 +2,13 @@
 categories = []
 date = "2013-08-30"
 description = "Lobster, Rescues, Garbage and more at PEI Hacks!"
-draft = true
 tags = []
 thumbnail = ""
 title = "Lobster, Rescues, Garbage and more at PEI Hacks!"
 
 +++
+
+
 The first PEI Hacks hackathon hosted by the PEI Developers is in the books. This was an amazing day where a group of over 30 software developers came together for 8 intense hours to create working applications at the Holman Centre in Summerside, PEI.
 
 
@@ -29,6 +30,8 @@ The evening of visiting, drinking and snacking set the tone for what was to be a
 
 {{< tweet 370331104802140160 >}}
 
+
+.
 
 {{< tweet 371247917962506240 >}}
 
