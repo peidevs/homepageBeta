@@ -2,7 +2,6 @@
 categories = []
 date = "2015-05-14"
 description = "Guest Blogger"
-draft = true
 tags = []
 thumbnail = ""
 title = "Guest Blogger"
