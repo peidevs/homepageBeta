@@ -95,250 +95,81 @@ The first team to demo was made up of huge comic book fans who were also very la
 {{< tweet 559019737951535104 >}}
 
 
-VR Darts
+**VR Darts**
 
 
-The next team up stayed in virtual reality with another Oculus, but this time paried it with a Leap Motion device for hand tracking. They were able to combine both technologies and write software to create a prototype of a fully virtual reality dart game. Now this just needs to be in every virtual pub out there!
+The next team up stayed in virtual reality with another Oculus, but this time paired it with a Leap Motion device for hand tracking. They were able to combine both technologies and write software to create a prototype of a fully virtual reality dart game. Now this just needs to be in every virtual pub out there!
+![](/uploads/2017/04/24/15749425134_bb9d2544ae_z.jpg)
 
 
-IMGP1122.JPG
+**GTA VI aka Giant Tortoise Attack**
 
 
-IMGP1122.JPG
+The next team built and demoed a very polished 2d game. They used the [LÖVE Lua-based game engine](https://love2d.org/) to build a world where turtles crave crystals and you are the lone protector. Waves of hard shelled enemies must be stopped from taking down the crystal all while trying to keep the hero on his feet as well!
+![](/uploads/2017/04/24/15754551494_8afdd94832_z.jpg)
 
 
-DUSTIN SPARKS·2 YEARS AGO
+**Grocery Saga**
 
 
-GTA VI aka Giant Tortoise Attack
+In a world full of choices where there is no clear path, one man had a vision of a world without the veil. He and his companions started a quest to use technology to answer one of life's darkest questions: where are the cheapest Doritos. This team built an awesome app that scrapes and pulls all the data from local grocery stores, stores that data, and then exposes that in a nice web app to help consumers find where the best deals are for their shopping list. Some of the technologies uses include PHP, MySQL, and XPath.
+![](/uploads/2017/04/24/notgreen.jpg)
 
 
-The next team built and demoed a very polished 2d game. They used the LÖVE Lua-based game engine to build a world where turles crave crystals and you are the lone protector. Waves of hard shelled enemies must be stopped from taking down the crystal all while trying to keep the hero on his feet as well!
+**Greenhouse Monitor and Automation**
 
 
-Photo 1-24-2015, 9 44 30 PM
+code: [https://gitlab.com/derek.campbell/hackathon-greenhouse](https://gitlab.com/derek.campbell/hackathon-greenhouse)
 
 
-Photo 1-24-2015, 9 44 30 PM
+Here on PEI we have the rare combination of farmers who can code. The coding farmer is always on the lookout to improve things around the farm thus, to that end, the Greenhouse Monitor project was born. This project consisted of a spark core with environmental sensors and a web interface to report the greenhouse data as well as make any modifications to the greenhouse remotely. Python was used for the pin I/O with the Spark Core.
+![](/uploads/2017/04/24/me.jpg)
 
 
-PEI DEVELOPERS·2 YEARS AGO
+**Arduino Test Bed**
 
 
-Grocery Saga
+Next up is the most hardware focused application of the day: The test bed for arduino devices. The idea for this project stemmed from a need to verify that all the functionality for a given piece of hardware can be easily verified. This project consisted of a breadboard where circuts could be plugged in and then software and hardware test cases could be executed against the system under test. There is both software and physical feedback via LEDs from the tests to help the user see when there is a failure. This verifies that the hardware is operating correctly and also allowso for tests as you modify the configuration.
+![](/uploads/2017/04/24/matt.jpg)
 
 
-In a world full of choices where there is no clear path, one man had a vision of a world without the veil. He and his companions started a quest to use technogoly to answer one of life's darkest questions: where are the cheapest doritos. This team built an awesome app that scrapes and pulls all the data from local grocery stores, stores that data, and then exposes that in a nice web app to help consumers find where the best deals are for their shopping list. Some of the technologies uses include PHP, MySQL, and XPath.
+**Squirrels!**
 
 
-Photo 1-24-2015, 9 49 23 PM
+We get back to the fun and games with Squirrels! This team pivoted to create a 2d unity game full of beautiful artwork and the foundation for an awesome game. The team learned unity, built all the sprites from scratch, and had a prototype demo of an onslaught of angry squirrels.
+![](/uploads/2017/04/24/squi.jpg)
 
 
-Photo 1-24-2015, 9 49 23 PM
+**Whereabouts?**
 
 
-PEI DEVELOPERS·2 YEARS AGO
-
-
-Greenhouse Monitor and Automation
-
-
-code: https://gitlab.com/derek.campbell/hackathon-greenhouse
-
-
-Here on PEI we have the rare combination of farmers who can code. The coding farmer is always on the lookout to improve things around the farm thus, to that end, the Greenhouse Monitor project was born. This project consistensted of a spark core with environmental senors and a web interface to report the greenhouse data as well as make any modifications to the greenhouse remotely. Python was used for the pin I/O with the Spark Core.
-
-
-Photo 1-24-2015, 9 52 48 PM
-
-
-Photo 1-24-2015, 9 52 48 PM
-
-
-PEI DEVELOPERS·2 YEARS AGO
-
-
-Arduino Test Bed
-
-
-Next up is the most hardware foucsed application of the day: The test bed for arduino devices. The idea for this project stemmed from a need to verify that all the functionality for a given piece of hardware can be easily verified. This project consisted of a breadboard where circuts could be plugged in and then software and hardware test cases could be executed against the system under test. There is both software and physical feedback via LEDs from the tests to help the user see when there is a failure. This verifies that the hardware is operating correctly and also allowso for tests as you modify the configuration.
-
-
-Photo 1-24-2015, 9 57 08 PM
-
-
-Photo 1-24-2015, 9 57 08 PM
-
-
-PEI DEVELOPERS·2 YEARS AGO
-
-
-Squirrels!
-
-
-We get back to the fun and games with Squirrels! This team pivoted to create a 2d unity game full of beautiful artwork and the foundation for an awesome game. The team learned unity, built all the sprites from scratch, and had a prototype demo of an onslought of angry squirrels.
-
-
-Photo 1-24-2015, 10 01 07 PM
-
-
-Photo 1-24-2015, 10 01 07 PM
-
-
-PEI DEVELOPERS·2 YEARS AGO
-
-
-Whereabouts?
-
-
-code: https://github.com/billytalented/whereabouts.git
+code: [https://github.com/billytalented/whereabouts.git](https://github.com/billytalented/whereabouts.git)
 
 
 The final app to be demoed was a mobile application for android and iOS. This app ties virtual photos to physical places, much like Yik Yak for photos. The team was able to build back end services for the photos, capture a photo and then display the photos back to the user for a given location on both iPhone and Android. The team used the ionic framework, javascript, java to build the apps. They also got a preliminary prototype working for the apple watch.
-
-
-Photo 1-24-2015, 10 06 30 PM
-
-
-Photo 1-24-2015, 10 06 30 PM
-
-
-PEI DEVELOPERS·2 YEARS AGO
+![](/uploads/2017/04/24/last.jpg)
 
 
 After 12 hours and gallons of coffee all 8 teams at the hackathon had produced solid applications and projects that could be demonstrated. This is no small feat and is amazing what small teams can accomplish in a single day.
 
 
-Wrap up
+**Wrap up**
 
 
-The code was written and the apps run. It was now time to wind things down and hand out the door prizes and thank our supporters once again. These events promote community, innovation, and fun and we thank all of our participants that attended as well as all of those that supported us to make the day possible. If you want to be a part of this exciting community, please join us at the PEI Developers meetup site.
+The code was written and the apps run. It was now time to wind things down and hand out the door prizes and thank our supporters once again. These events promote community, innovation, and fun and we thank all of our participants that attended as well as all of those that supported us to make the day possible. If you want to be a part of this exciting community, please join us at the [PEI Developers meetup site](http://www.meetup.com/PEI-Developers/).
 
 
-We couldn't have done it alone!
+**We couldn't have done it alone!**
 
 
-Thank you to all our supporters! In addition to the supporters mentioned above, these great companies, orginizations, and people helped make this event happen!
+Thank you to all our supporters! In addition to the supporters mentioned above, these great companies, organizations, and people helped make this event happen!
 
 
-Holland College
+{{< tweet 558693439723044864 >}}
 
 
-Follow
 
 
-PEIDevs @PEIDevs
-
-
-Going to the Hackathon tomorrow? Once you create something awesome you should host it with @linode. Another superb supporter
-
-
-2:31 PM - 23 Jan 2015
-
-
-2 2 Retweets   4 4 likes
-
-
-Follow
-
-
-PEIDevs @PEIDevs
-
-
-Do you know what a bluetooth beacon is? If not why not find out at our Hackathon? Thanks to @Estimote you could take some beacons home
-
-
-9:06 PM - 17 Jan 2015
-
-
-6 6 Retweets   11 11 likes
-
-
-Follow
-
-
-PEIDevs @PEIDevs
-
-
-Shout-out to @screenscape for sponsoring some door prizes at our hackathon! #thankyou - http://www.eventbrite.ca/e/pei-devs-hackathon-tickets-15252848681 …
-
-
-12:57 PM - 23 Jan 2015
-
-
-Photo published for PEI Devs Hackathon
-
-
-PEI Devs Hackathon
-
-
-The PEI Devs are proud to host a winter hackathon on Saturday, Jan 24th! This is an event about building something awesome and connecting with other incredible developers, designers, and people...
-
-
-eventbrite.ca
-
-
-4 4 Retweets   6 6 likes
-
-
-Follow
-
-
-PEIDevs @PEIDevs
-
-
-Shout-out to @TheSPOT_Chtown for supporting our hackathon! #thankyou
-
-
-2:33 PM - 24 Jan 2015
-
-
-Retweets   3 3 likes
-
-
-Follow
-
-
-PEIDevs @PEIDevs
-
-
-How much stick would a @stickermule stick if a @stickermule would stick stickers? @PEIDevs thanks them for their Hackathon sponsorship.
-
-
-8:47 PM - 20 Jan 2015
-
-
-Retweets   likes
-
-
-Follow
-
-
-PEIDevs @PEIDevs
-
-
-Thanks to @KellyLantz for supporting our event! Your contribution helped make today happen. #thankyou
-
-
-3:55 PM - 24 Jan 2015
-
-
-Retweets   3 3 likes
-
-
-Follow
-
-
-PEIDevs @PEIDevs
-
-
-Shout-out to @OReillyMedia for sponsoring some e-books as door prizes. Thanks!
-
-
-11:05 AM - 24 Jan 2015
-
-
-2 2 Retweets   1 1 like
 
 
 Photo 1-24-2015, 9 02 43 PM
@@ -348,6 +179,20 @@ Photo 1-24-2015, 9 02 43 PM
 
 
 PEI DEVELOPERS·2 YEARS AGO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
