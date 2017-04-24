@@ -1,3 +1,41 @@
-baseURL = "http://example.org/"
+baseurl = "/"
+title = "PEI Developers"
 languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+
+[Params]
+    subtitle = "est. 2012" # Subtitle of your site
+    description = "Home of the PEI Developers Group." # Description of your site
+    opengraph = false
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = false
+    post_navigation = true
+
+
+[Params.widgets]
+    search = false # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = false # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[[Menu.main]]
+    name = "About"
+    url = "/about/"
+[[Menu.main]]
+    name = "Code of Conduct"
+    url = "/code/"
+[[Menu.main]]
+    name = "Github"
+    url = "https://www.github.com/peidevs"
+[[Menu.main]]
+    name = "Twitter"
+    url = "https://www.twitter.com/peidevs"
+[[Menu.main]]
+    name = "Meetup"
+    url = "https://www.meetup.com/pei-developers"
