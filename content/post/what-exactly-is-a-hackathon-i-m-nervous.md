@@ -2,7 +2,6 @@
 categories = []
 date = "2015-01-14"
 description = "What, exactly, is a hackathon? I’m nervous"
-draft = true
 tags = []
 thumbnail = ""
 title = "What, exactly, is a hackathon? I’m nervous."
