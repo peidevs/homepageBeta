@@ -2,7 +2,6 @@
 categories = []
 date = "2015-07-18"
 description = "CKANCon 2015"
-draft = true
 tags = []
 thumbnail = ""
 title = "CKANCon 2015"
