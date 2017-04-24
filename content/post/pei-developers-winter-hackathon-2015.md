@@ -8,10 +8,13 @@ thumbnail = ""
 title = "PEI Developers Winter Hackathon 2015"
 
 +++
+
+
 On Jan 24 developers, designers, artists, and makers of all types came together at the PEI Developers Winter Hackathon!
 
 
 Early on Saturday, January 24th, 2015 the doors opened at the [Atlantic Technology Centre](http://www.atlantictechnologycentre.ca/) in downtown Charlottetown, PEI. The forecast for the day called for a nasty winter storm but snow, Ice, nor slush could not keep the [PEI Developers](http://www.meetup.com/PEI-Developers/) from creating a storm of their own.
+
 ![](/uploads/2017/04/24/16376995635_ba4c7256d8_z.jpg)
 
 
@@ -19,6 +22,8 @@ The group gathered and everyone was labeled. The breakfast arrived from the [Rec
 
 
 {{< tweet 559032528087314432 >}}
+
+
 
 
 ![](/uploads/2017/04/24/16370923412_a98695bb9f_z.jpg)
