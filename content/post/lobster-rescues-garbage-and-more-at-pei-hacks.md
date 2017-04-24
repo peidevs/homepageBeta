@@ -2,6 +2,7 @@
 categories = []
 date = "2013-08-30"
 description = "Lobster, Rescues, Garbage and more at PEI Hacks!"
+draft = true
 tags = []
 thumbnail = ""
 title = "Lobster, Rescues, Garbage and more at PEI Hacks!"
