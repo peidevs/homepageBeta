@@ -121,76 +121,58 @@ This teams task was to aid the search and rescue crew in the field.  In order to
 **Grind (aka Tap)**
 
 
-code: https://github.com/PEIHacksGrind/grind
-
-
-ph35
-
-
-ph35
-
-
-PEI DEVELOPERS·4 YEARS AGO
+code: [https://github.com/PEIHacksGrind/grind](https://github.com/PEIHacksGrind/grind)
+![](/uploads/2017/04/24/9600243018_a6032dac89_z.jpg)
 
 
 Most modern games consist of the gameplay element accompanied by a grinding element to level/gear up.  This team decided to build a game that took away all gameplay and just left the grind.  This resulted in gloriously simple and addictive Android game. This game was distilled from loftier goals by a team who boldly and bravely dove into the Android space for the first time. The game features a minimalist UI (two buttons) and frenzied action that will test the resiliency of any device. We’ve seen it in action!
 
 
-That's a wrap
+**That's a wrap**
 
 
 The day started in a big room full of strangers.  The day ended in the same big room, but where once strangers stood there were cohesive teams each offering up their creations for the first time to the world.   The first PEI Hacks was an amazing event that offered up even more impressive inventions.  Thank you to everyone who came out and built something awesome for a day.
 
 
-Follow
-
-
-Steven R. Baker @srbaker
-
-
-Successful but exhausting #peihacks. Thanks to everyone who came out!
-
-
-12:31 AM - 25 Aug 2013 · Prince, Prince Edward Island
-
-
-Retweets   likes
+{{< tweet 371474807369793536 >}}
 
 
 Thanks again to our top-tier sponsors:
 
 
-Holman Centre
+[Holman Centre](http://holmancentre.com/)
 
 
-Cogsdale
+[Cogsdale](http://www.cogsdale.com/)
 
 
-EA Mobile
+[EA Mobile](http://www.ea.com/mobile)
 
 
 and thanks to all of the following. You made this event possible!
 
 
-Indigo Books
+[Indigo Books](Indigo Books)
 
 
-NFL Ferries
+[NFL Ferries](http://www.ferries.ca/)
 
 
-Malleable Software
+[Malleable Software](https://twitter.com/srbaker)
 
 
-O’Reilly Media
+[O’Reilly Media](http://oreilly.com/)
 
 
-Resonance Development
+[Resonance Development](http://resonancedev.ca/)
 
 
-ScreenScape Networks
+[ScreenScape Networks](http://screenscape.com/)
 
 
 Swift Radius
+
+
 
 
 
