@@ -46,7 +46,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     url = "https://peidevs.github.io/Event_Resources/"
 [[Params.links.important]]
     name = "People's Scooter"
-    url = "Angular Scooter"
+    url = "http://peidevs.github.io/Scooter"
 [[Params.links.important]]
     name = "Request Slack Invite"
     url = "https://docs.google.com/forms/d/1hNruzn7fb8Wu7BbuGVvgbeO0-HTNnDrcCJAQ24wZTBs/viewform"
