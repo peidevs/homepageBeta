@@ -30,13 +30,14 @@ The evening of visiting, drinking and snacking set the tone for what was to be a
 
 {{< tweet 370331104802140160 >}}
 
+
 <span style="font-size: 1rem;">{{&lt; tweet 371247917962506240 &gt;}}</span>
 
 
 The power bars were in place.  The network was spewing packets through the air.  The chairs were congregated together and the coffee had arrived.  It was time to open the doors as the builders arrived; flooding the space with creativity and drive.
 
 
-{{< tweet 371254468211638272 >}}
+{{< tweet 371254468211638272 >}}
 
 
 It was time to begin.
@@ -66,7 +67,7 @@ code:  [https://github.com/indiecore/WhenIsGarbage](https://github.com/indiecore
 This team tackled the problem of missing garbage day.  They solved the problem by notifying users the night before their garbage will be collected. By correlating the user’s address with a municipal database of civic addresses, the app will send an SMS message or tweet as a notification.  Being done is always a good feeling!
 
 
-{{< tweet 371427107718844416 >}}
+{{< tweet 371427107718844416 >}}
 
 
 **Search and Rescue Callout**
@@ -78,13 +79,13 @@ App in action: [gsar.herokuapp.com](http://gsar.herokuapp.com/)
 Code: [github.com/brndmg/gsar](https://github.com/brndmg/gsar)
 
 
-{{< tweet 371413612213977088 >}}
+{{< tweet 371413612213977088 >}}
 
 
 Ground Search and Rescue typically has a hierarchy of a search commander, operators, and searchers. This app flattens that hierarchy by broadcasting messages directly to searchers, using lat/long as a rendezvous point. For technology, this app uses Twitter Bootstrap, Mongo DB, Node.js, and a RESTful architecture.
 
 
-{{< tweet 371428222929338368 >}}
+{{< tweet 371428222929338368 >}}
 
 
 **Lobster Peddlr**
