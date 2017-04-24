@@ -8,8 +8,6 @@ thumbnail = ""
 title = "PEI Developers Winter Hackathon 2015"
 
 +++
-
-
 On Jan 24 developers, designers, artists, and makers of all types came together at the PEI Developers Winter Hackathon!
 
 
@@ -166,7 +164,12 @@ Thank you to all our supporters! In addition to the supporters mentioned above, 
 
 
 {{< tweet 558693439723044864 >}}
-
+{{< tweet 556618603286773760 >}}
+{{< tweet 558669940409257984 >}}
+{{< tweet 559056450719186945 >}}
+{{< tweet 557701065517572097 >}}
+{{< tweet 559077113211650049 >}}
+{{< tweet 559004031176417280 >}}
 
 
 
@@ -179,25 +182,3 @@ Photo 1-24-2015, 9 02 43 PM
 
 
 PEI DEVELOPERS·2 YEARS AGO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
