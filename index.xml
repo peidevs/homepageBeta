@@ -6,10 +6,19 @@
     <description>Recent content on PEI Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/homepageBeta/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>April Meetup 2015</title>
+      <link>/homepageBeta/post/april-meetup-2015/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/homepageBeta/post/april-meetup-2015/</guid>
+      <description>Our April meetup is behind us and the group continues to grow. April was the largest meetup to date as we had 33 people in attendance. Some of you may not have been aware but this was the 3rd anniversary of the PEIDevs group. The group was started by Dustin Sparks in April 2012. Through word of mouth and quality talent we are happy to see where the group can go in the future.</description>
+    </item>
     
     <item>
       <title>PEI Developers Winter Hackathon 2015</title>
