@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ramping Up…. some FAQs</title>
+<title>CKANCon 2015</title>
 <meta name="description" content="Home of the PEI Developers Group.">
 <meta name="generator" content="Hugo 0.20.2" />
 
@@ -39,69 +39,30 @@
 <div class="main-content content" role="main" itemprop="mainContentOfPage">
 	<article class="post">
 		<header class="post__header clearfix">
-			<h1 class="post__title">Ramping Up…. some FAQs</h1>
+			<h1 class="post__title">CKANCon 2015</h1>
 			<p class="post__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="post__meta-date" datetime="2015-01-18 00:00:00 &#43;0000 UTC">January 18, 2015</time>
+				<time class="post__meta-date" datetime="2015-07-18 00:00:00 &#43;0000 UTC">July 18, 2015</time>
 			</p>
 		</header>
 		<div class="post__content clearfix">
-			<p>Hello Hackers!</p>
+			<p>Michael Easter files this report from a trip to Ottawa:</p>
 
-<p>Some notes before <a href="https://www.eventbrite.ca/e/pei-devs-hackathon-tickets-15252848681">our event on Saturday, Jan 24</a>.</p>
+<p><a href="https://en.wikipedia.org/wiki/CKAN">CKAN</a> is a web-based, <a href="https://github.com/ckan/ckan">open-source</a> data management system, maintained by the <a href="https://en.wikipedia.org/wiki/Open_Knowledge_International">Open Knowledge Foundation</a>. It powers many data catalogues around the world, including some heavy-hitters: <a href="https://data.gov.uk/about">Data.gov.uk</a> , <a href="https://github.com/GSA/data.gov/">Data.gov </a>in the United States, and the <a href="http://open.canada.ca/en/open-data">federal Open Data portal</a> in Canada.</p>
 
-<p>To re-iterate our goals, they are easy:</p>
+<p>It is primarily written in Python, using PostgresSQL to store meta-data about data sets, and Apache Solr as a search engine. CKAN is extensible via plugins, and the community takes pride in the rich set of plugins available in the CKAN ecosystem.</p>
 
-<ul>
-<li>have fun (#1 with a bullet)</li>
-<li>meet nerds, network</li>
-<li>build something neat, which is demonstrable and placed on a public repo (e.g. GitHub)</li>
-</ul>
+<p>CKANCon 2015 was a one-day conference in Ottawa, intended both for developers and policy makers. The morning consisted of several presentations and lightning talks. A video stream of the presentations is <a href="https://www.youtube.com/watch?v=OmX-rsSYmrc">available here</a> (there is a black screen early on: jump past it, using <a href="https://www.eventbrite.com/e/ckancon-2015-tickets-16681567016">this agenda</a> as a guide). The afternoon featured two working groups: one technical, and one for policy / workflow.</p>
 
-<p>Here are some answers to common questions</p>
+<p>As a newbie to CKAN, my primary goal was to become more familiar with the project. It is a terribly tired cliché, but it really is a friendly community. The developers are technically sharp, but also emit the vibe that they are entrusted with a larger, noble purpose, regarding open data. (The community reminds me of librarians in this regard.)</p>
 
-<p><strong>How do I prepare ?</strong></p>
+<p>I was impressed with the sophisticated architecture options: e.g. the <a href="https://github.com/ckan/ckanext-harvest">Harvest plugin</a> can import data from other CKAN sites into a primary site. There are plenty of other features (searching, reports, graphs, etc) to ensure that a catalog is more than “<a href="https://www.youtube.com/watch?v=OmX-rsSYmrc&amp;feature=youtu.be&amp;t=2h18s">a fancy FTP server</a>”.</p>
 
-<ul>
-<li>Think about some ideas you might like to work on (more below)</li>
-<li>Bring a laptop with your tools installed. Developers and designers should have their working environment already set up.</li>
-<li>We want to show off our efforts, so developers should set up an account on GitHub</li>
-</ul>
+<p>The conference ran fairly smoothly but I was surprised that there wasn’t a call to action, or a clear message on how one could contribute. The conference had <a href="https://www.youtube.com/watch?v=OmX-rsSYmrc&amp;feature=youtu.be&amp;t=19m55s">solid introductory material</a>, but was ultimately “inside baseball” (which is reasonable, if not unavoidable). A vague, secondary goal of mine was to discover an area where PEI Devs could make a difference. (One whimsical example is a Clojure wrapper around a REST API, or some such. Some nice-to-have that would add value and be of interest to our group.) Unfortunately, I waited too long to ask, and muffed the few opportunities I had.</p>
 
-<p><strong>What is “something neat” ?</strong></p>
+<p>I think an architectural tour / installation of CKAN would be a terrific talk for our group, if anyone is interested.</p>
 
-<p>You decide! More below, but everyone has the chance to pitch an idea in the AM. You’ll vote on the project that sounds “neat” to you.</p>
-
-<p><strong>What is “demonstrable” ?</strong></p>
-
-<p>Your team will demo your effort in the PM. A “demo” can range from a slick UI to a code-level API that you’ve written on the back-end. Whatever works for you, but we do ask that there is something to show, even if it is just the start of a larger idea. Prefer a coherent narrative over completeness.</p>
-
-<p><strong>Why a public repo ?</strong></p>
-
-<p>Having a body of work will show the world what our IT community can do. Set up on <a href="https://github.com">GitHub</a>!</p>
-
-<p><strong>More on ideas</strong></p>
-
-<p>Please think about ideas you’d like to pitch. Try and find an idea that you’re passionate about: when you “scratch the itch”, then presenting the idea will be effortless.</p>
-
-<p>The pitch can be a mobile app, civic hacking (aka open data), or a hyper-local app, tailored for life on PEI. Surprise us!</p>
-
-<p>For some potential data sources, consider these:</p>
-
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Open_data_in_Canada">Open Data in Canada</a></li>
-<li><a href="http://www.halifax.ca/opendata/">Halifax Open Data</a></li>
-<li><a href="http://www.openstreetmap.org/relation/391115">Open Street Map (PEI)</a></li>
-<li><a href="http://open.canada.ca/en">Open Government Portal</a></li>
-</ul>
-
-<p><strong>Most Important</strong></p>
-
-<p>This event is stress-free, and not about nerds competing to find the top alpha-geek! We’re chill. Come inside and play!</p>
-
-<p>see you soon,</p>
-
-<p>PEI Devs</p>
+<p>M. Easter</p>
 
 		</div>
 		
@@ -111,10 +72,7 @@
 	
 <nav class="post-nav row clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
 	<div class="post-nav__item post-nav__item--prev col-1-2">
-		<a class="post-nav__link" href="/homepageBeta/post/what-exactly-is-a-hackathon-i-m-nervous/" rel="prev"><span class="post-nav__caption">«Previous</span><p class="post-nav__post-title">What, exactly, is a hackathon? I’m nervous.</p></a>
-	</div>
-	<div class="post-nav__item post-nav__item--next col-1-2">
-		<a class="post-nav__link" href="/homepageBeta/post/pei-developers-winter-hackathon-2015/" rel="next"><span class="post-nav__caption">Next»</span><p class="post-nav__post-title">PEI Developers Winter Hackathon 2015</p></a>
+		<a class="post-nav__link" href="/homepageBeta/post/open-data-recap/" rel="prev"><span class="post-nav__caption">«Previous</span><p class="post-nav__post-title">Open Data Recap</p></a>
 	</div>
 </nav>
 
