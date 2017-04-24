@@ -6,10 +6,24 @@
     <description>Recent content in Posts on PEI Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/homepageBeta/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ramping Up…. some FAQs</title>
+      <link>/homepageBeta/post/ramping-up-some-faqs/</link>
+      <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/homepageBeta/post/ramping-up-some-faqs/</guid>
+      <description>Hello Hackers!
+Some notes before our event on Saturday, Jan 24.
+To re-iterate our goals, they are easy:
+ have fun (#1 with a bullet) meet nerds, network build something neat, which is demonstrable and placed on a public repo (e.g. GitHub)  Here are some answers to common questions
+How do I prepare ?
+ Think about some ideas you might like to work on (more below) Bring a laptop with your tools installed.</description>
+    </item>
     
     <item>
       <title>What, exactly, is a hackathon? I’m nervous.</title>
