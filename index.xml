@@ -6,10 +6,20 @@
     <description>Recent content on PEI Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/homepageBeta/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Data Recap</title>
+      <link>/homepageBeta/post/open-data-recap/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/homepageBeta/post/open-data-recap/</guid>
+      <description>At long last, Michael Easter has written a recap of the conferences mentioned at the June Meet-Up. Check out A Week in Ottawa: Partying with the Data Nerds over on his blog.
+Michael will write a follow-up brief on CKAN Con (CKAN is an open-source, web-based data management system).</description>
+    </item>
     
     <item>
       <title>Guest Blogger</title>
