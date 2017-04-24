@@ -2,6 +2,7 @@
 categories = []
 date = "2013-08-30"
 description = "Lobster, Rescues, Garbage and more at PEI Hacks!"
+draft = true
 tags = []
 thumbnail = ""
 title = "Lobster, Rescues, Garbage and more at PEI Hacks!"
@@ -28,7 +29,7 @@ The evening of visiting, drinking and snacking set the tone for what was to be a
 ![](/uploads/2017/04/24/9597466641_c5ccdb41be_z.jpg)
 
 
-{{< tweet 370331104802140160>}}
+{{< tweet 370331104802140160 >}}
 
 
 {{< tweet 371247917962506240 >}}
@@ -170,11 +171,3 @@ and thanks to all of the following. You made this event possible!
 
 
 Swift Radius
-
-
-
-
-
-
-
-
