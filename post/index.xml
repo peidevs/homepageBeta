@@ -6,18 +6,22 @@
     <description>Recent content in Posts on PEI Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2017 17:34:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/homepageBeta/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Winter Hackathon</title>
       <link>/homepageBeta/post/test/</link>
-      <pubDate>Mon, 24 Apr 2017 17:34:02 -0300</pubDate>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>/homepageBeta/post/test/</guid>
-      <description></description>
+      <description>Hello Devs, Designers, and App Fans,
+PEI Developers, in partnership with generous sponsors, is happy to announce a hackathon on January 24!
+Here is your invite with all the details.
+This isn’t our first rodeo, so we know you may have questions. More to come, but for now, know that:
+ This is a one-day event with a focus on fun and being nerdy. You don’t have to be a coder to contribute!</description>
     </item>
     
   </channel>
