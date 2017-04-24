@@ -2,7 +2,6 @@
 categories = []
 date = "2015-03-15"
 description = "March Meetup - Arduino"
-draft = true
 tags = []
 thumbnail = ""
 title = "March Meetup - Arduino"
