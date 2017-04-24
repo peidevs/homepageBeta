@@ -6,10 +6,20 @@
     <description>Recent content on PEI Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/homepageBeta/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Guest Blogger</title>
+      <link>/homepageBeta/post/guest-blogger/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/homepageBeta/post/guest-blogger/</guid>
+      <description>Today we have a guest blogger with us. Evan Porter recently returned from Montreal where he attended PyCon 2015. Evan was kind enough to provide us with some notes from the event. We will now turn the mic over to Evan.
+The weekend of April 10th, 2015, I achieved a long-time goal and attended PyCon. This year, it was held in Montréal, so the bar was as low as it was going to be.</description>
+    </item>
     
     <item>
       <title>April Meetup 2015</title>
