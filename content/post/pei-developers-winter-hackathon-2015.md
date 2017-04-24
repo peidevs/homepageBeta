@@ -2,7 +2,6 @@
 categories = []
 date = "2015-02-12"
 description = "PEI Developers Winter Hackathon 2015"
-draft = true
 tags = []
 thumbnail = ""
 title = "PEI Developers Winter Hackathon 2015"
