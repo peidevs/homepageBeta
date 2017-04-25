@@ -2,6 +2,7 @@
 categories = []
 date = "2015-07-17"
 description = "Open Data Recap"
+draft = true
 tags = []
 thumbnail = ""
 title = "Open Data Recap"
