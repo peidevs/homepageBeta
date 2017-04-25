@@ -6,21 +6,10 @@
     <description>Recent content on PEI Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/homepageBeta/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>CKANCon 2015</title>
-      <link>/homepageBeta/post/ckancon-2015/</link>
-      <pubDate>Sat, 18 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/homepageBeta/post/ckancon-2015/</guid>
-      <description>Michael Easter files this report from a trip to Ottawa:
-CKAN is a web-based, open-source data management system, maintained by the Open Knowledge Foundation. It powers many data catalogues around the world, including some heavy-hitters: Data.gov.uk , Data.gov in the United States, and the federal Open Data portal in Canada.
-It is primarily written in Python, using PostgresSQL to store meta-data about data sets, and Apache Solr as a search engine.</description>
-    </item>
     
     <item>
       <title>Open Data Recap</title>
