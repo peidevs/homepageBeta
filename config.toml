@@ -40,11 +40,11 @@ weight = 5
 [[menu.side]]
 name = "People's Scooter"
 url = "http://peidevs.github.io/Scooter"
-weight = 2
+weight = 3
 [[menu.side]]
 name = "Scooter"
 url = "https://peidevs.github.io/Event_Resources/"
-weight = 1
+weight = 2
 [params]
 authorbox = false
 description = "Home of the PEI Developers Group."
