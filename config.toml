@@ -1,4 +1,4 @@
-baseurl = "/homepageBeta/"
+baseurl = "/"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
@@ -25,6 +25,18 @@ weight = 2
 name = "About"
 url = "/about/"
 weight = 1
+[[menu.side]]
+name = "Scooter"
+url = "https://peidevs.github.io/Event_Resources/"
+[[menu.side]]
+name = "People's Scooter"
+url = "http://peidevs.github.io/Scooter"
+[[menu.side]]
+name = "Request Slack Invite"
+url = "https://docs.google.com/forms/d/1hNruzn7fb8Wu7BbuGVvgbeO0-HTNnDrcCJAQ24wZTBs/viewform"
+[[menu.side]]
+name = "Flickr"
+url = "http://www.flickr.com/photos/100794919@N05/"
 [params]
 authorbox = false
 description = "Home of the PEI Developers Group."
@@ -32,18 +44,6 @@ leftsidebar = false
 opengraph = false
 post_navigation = true
 subtitle = "est. 2012"
-[[params.links.important]]
-name = "Scooter"
-url = "https://peidevs.github.io/Event_Resources/"
-[[params.links.important]]
-name = "People's Scooter"
-url = "http://peidevs.github.io/Scooter"
-[[params.links.important]]
-name = "Request Slack Invite"
-url = "https://docs.google.com/forms/d/1hNruzn7fb8Wu7BbuGVvgbeO0-HTNnDrcCJAQ24wZTBs/viewform"
-[[params.links.important]]
-name = "Flickr"
-url = "http://www.flickr.com/photos/100794919@N05/"
 [params.widgets]
 categories = true
 important = true
