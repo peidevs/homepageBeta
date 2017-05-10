@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-07-18"
+date = "2015-07-18T00:00:00Z"
 description = "CKANCon 2015"
 tags = []
 thumbnail = ""
 title = "CKANCon 2015"
 
 +++
-
-
 Michael Easter files this report from a trip to Ottawa:
 
 [CKAN](https://en.wikipedia.org/wiki/CKAN) is a web-based, [open-source](https://github.com/ckan/ckan) data management system, maintained by the [Open Knowledge Foundation](https://en.wikipedia.org/wiki/Open_Knowledge_International). It powers many data catalogues around the world, including some heavy-hitters: [Data.gov.uk](https://data.gov.uk/about) , [Data.gov ](https://github.com/GSA/data.gov/)in the United States, and the [federal Open Data portal](http://open.canada.ca/en/open-data) in Canada.

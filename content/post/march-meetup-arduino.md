@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-03-15"
+date = "2015-03-15T00:00:00Z"
 description = "March Meetup - Arduino"
 tags = []
 thumbnail = ""
 title = "March Meetup - Arduino"
 
 +++
-
-
 Our March meetup is behind us. We had Matt Duffy (@MEDexperience) gave us a talk on Arduino.
 
 We had a good turnout. The growth of the group continues as we have seen a 50% increase in attendance since the Hackathon. This is great to see and hope that through future events and word of mouth that the group continues to grow. There were many new faces; A big welcome to those attending for the first time.![](/uploads/2017/04/24/matt_talk.jpg)

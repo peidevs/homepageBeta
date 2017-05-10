@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-03-29"
+date = "2015-03-29T00:00:00Z"
 description = ""
 tags = []
 thumbnail = ""
 title = "Our Mission"
 
 +++
-
-
 PEI Developers is simply an informal group of software developers, web designers, and other techies. It’s a Nerd Club.
 
 We [meet monthly](https://www.meetup.com/PEI-Developers/), and organize hackathons on occasion. Some time back, our co-organizers drafted a mission statement. Here it is…

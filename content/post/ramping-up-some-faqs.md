@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-01-18"
+date = "2015-01-18T00:00:00Z"
 description = ""
 tags = []
 thumbnail = ""
 title = "Ramping Up…. some FAQs"
 
 +++
-
-
 Hello Hackers!
 
 Some notes before [our event on Saturday, Jan 24](https://www.eventbrite.ca/e/pei-devs-hackathon-tickets-15252848681).

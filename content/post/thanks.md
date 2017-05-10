@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2013-08-25"
+date = "2013-08-25T00:00:00Z"
 description = ""
 tags = []
 thumbnail = ""
 title = "Thanks!"
 
 +++
-
-
 PEI Hacks was a big success! Six teams demonstrated software after 8 hours of collaboration and coding. From all accounts, everyone had fun.
 
 Over the next few days, we’ll describe the efforts and the day, but for now we want to thank so many people / sponsors.

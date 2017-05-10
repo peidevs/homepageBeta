@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-05-14"
+date = "2015-05-14T00:00:00Z"
 description = "Guest Blogger"
 tags = []
 thumbnail = ""
 title = "Guest Blogger"
 
 +++
-
-
 Today we have a guest blogger with us. Evan Porter recently returned from Montreal where he attended PyCon 2015. Evan was kind enough to provide us with some notes from the event. We will now turn the mic over to Evan.
 
 The weekend of April 10th, 2015, I achieved a long-time goal and attended PyCon. This year, it was held in Montréal, so the bar was as low as it was going to be. Travelling to a new city in a new situation was a little nerve wracking, but once at the conference, I never felt out of place.

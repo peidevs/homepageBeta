@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-04-15"
+date = "2015-04-15T00:00:00Z"
 description = ""
 tags = []
 thumbnail = ""
 title = "April Meetup 2015"
 
 +++
-
-
 Our April meetup is behind us and the group continues to grow. April was the largest meetup to date as we had 33 people in attendance. Some of you may not have been aware but this was the 3rd anniversary of the PEIDevs group. The group was started by Dustin Sparks in April 2012. Through word of mouth and quality talent we are happy to see where the group can go in the future.
 
 For the April meetup we had two speakers. Derek Campbell (@[derekscampbell1](https://twitter.com/derekscampbell1)) talking about Managed Development Environments and Ryan Palmer (@[rypalmer](https://www.twitter.com/rypalmer)) talking about Travis CI.

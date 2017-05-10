@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-01-14"
+date = "2015-01-14T00:00:00Z"
 description = "What, exactly, is a hackathon? I’m nervous"
 tags = []
 thumbnail = ""
 title = "What, exactly, is a hackathon? I’m nervous."
 
 +++
-
-
 If you’re nervous about coming out to our event, read on.
 
 We understand. Maybe you’ve never been to a hackathon. In fact, what is it, exactly?

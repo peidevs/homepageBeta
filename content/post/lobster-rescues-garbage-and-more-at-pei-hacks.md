@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2013-08-30"
+date = "2013-08-30T00:00:00Z"
 description = "Lobster, Rescues, Garbage and more at PEI Hacks!"
 tags = []
 thumbnail = ""

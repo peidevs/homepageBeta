@@ -1,14 +1,12 @@
 +++
 categories = []
-date = "2015-02-12"
+date = "2015-02-12T00:00:00Z"
 description = "PEI Developers Winter Hackathon 2015"
 tags = []
 thumbnail = ""
 title = "PEI Developers Winter Hackathon 2015"
 
 +++
-
-
 On Jan 24 developers, designers, artists, and makers of all types came together at the PEI Developers Winter Hackathon!
 
 

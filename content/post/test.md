@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2015-01-12"
+date = "2015-01-12T00:00:00Z"
 description = "Winter Hackathon 2015"
 tags = []
 thumbnail = ""
@@ -8,8 +8,6 @@ title = "Winter Hackathon"
 type = "default"
 
 +++
-
-
 Hello Devs, Designers, and App Fans,
 
 [PEI Developers](https://meetup.com/pei-developers), in partnership with generous sponsors, is happy to announce a [hackathon](https://en.wikipedia.org/wiki/Hackathon) on January 24!
