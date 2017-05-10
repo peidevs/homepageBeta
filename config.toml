@@ -1,4 +1,4 @@
-baseurl = "/homepageBeta"
+baseurl = "/homepageBeta/"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
