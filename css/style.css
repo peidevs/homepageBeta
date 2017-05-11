@@ -68,6 +68,10 @@ body {
 	word-wrap: break-word;
 }
 
+.container strong {
+	font-weight: bold;
+}
+
 .container, .container-inner {
 	width: 100%;
 	max-width: 1080px;
