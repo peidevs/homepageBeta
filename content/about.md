@@ -73,7 +73,7 @@ The elders are those who are willing to help organize the events. Anyone is welc
 <img src="https://secure.meetupstatic.com/photos/member/1/0/9/9/member_246964249.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Michael Gauthier</strong> - &#x2694
+<strong>Michael Gauthier</strong> - Mike has been a professional developer st silverorange since 2002 and hasn't gotten tired of it yet. Anything web or mobile is sure to interest Mike. He began assisting the group in 2016. &#x2694
 </div>
 </article>
 
