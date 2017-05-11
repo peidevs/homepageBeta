@@ -38,7 +38,7 @@ Founded in 2012 by Dustin Sparks. The group originated in the old Queen Street c
 
 * Matt Duffy
 
-* Michael Bruger
+* Michael Berger
 
 * Michael Gauthier
 
