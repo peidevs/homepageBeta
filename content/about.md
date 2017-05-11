@@ -64,7 +64,7 @@ The elders are those who are willing to help organize the events. Anyone is welc
 <img src="https://secure.meetupstatic.com/s/img/2982428616572973604/noPhoto_80.gif" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Michael Berger</strong> - <silence>
+<strong>Michael Berger</strong> - &lt;silence&gt;
 </div>
 </article>
 
