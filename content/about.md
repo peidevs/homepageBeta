@@ -8,8 +8,6 @@ title = "About PEI Developers"
 type = "page"
 
 +++
-
-
 ## Who we are
 
 PEI Developers is simply an informal group of software developers, web designers, and other techies.
@@ -34,9 +32,9 @@ After the closure of our original venue the group spent some time bouncing aroun
 
 The group has grown considerably over the years. In the beginning there were 6-10 members at every meetup and if 15 showed up we would try and squeeze in. Recent years have seen a substantial growth where some events have seen upwards of 50 people.
 
-<span style="font-size: 1rem;">Part of the growth is attributed to the various events held by the group through the years. This include Hackathons, participation in Global Day of Code Retreat as well as our summer social.&nbsp;</span>
+Part of the growth is attributed to the various events held by the group through the years. This include Hackathons, participation in Global Day of Code Retreat as well as our summer social.
 
-<span style="font-size: 1rem;">The growth of the group has been recognized in many different areas. There have been new groups popping up in PEI either directly from our group (Open Data Book Club) or our work has influenced their creation (UI/UX). This is an area that we are very proud of. To be part of and see the growth of the tech community here in PEI is important to us.&nbsp;</span>
+The growth of the group has been recognized in many different areas. There have been new groups popping up in PEI either directly from our group (Open Data Book Club) or our work has influenced their creation (UI/UX). This is an area that we are very proud of. To be part of and see the growth of the tech community here in PEI is important to us.
 
 ## Elders
 
