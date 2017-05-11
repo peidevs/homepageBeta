@@ -62,7 +62,7 @@ The growth of the group has been recognized in many different areas. There have 
 <img src="https://secure.meetupstatic.com/photos/member/4/0/e/4/member_46456612.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-Dustin Sparks - Founder of the PEI Developers group. Dustin carried the group for the first year and helped mold it into what it is today. Dustin stepped back from a leadership role in 2015 to focus on his business and family
+<strong>Dustin Sparks</strong> - Founder of the PEI Developers group. Dustin carried the group for the first year and helped mold it into what it is today. Dustin stepped back from a leadership role in 2015 to focus on his business and family
 </div>
 </article>
 
@@ -71,7 +71,7 @@ Dustin Sparks - Founder of the PEI Developers group. Dustin carried the group fo
 <img src="https://secure.meetupstatic.com/photos/member/b/a/7/e/member_163727742.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-Derek Campbell - One of the original members of the group. Derek was an active elder in 2013-2015 where he helped bring the spread the group through Summerside and beyond. 
+<strong>Derek Campbell</strong> - One of the original members of the group. Derek was an active elder in 2013-2015 where he helped bring the spread the group through Summerside and beyond. 
 </div>
 </article>
 
@@ -80,7 +80,7 @@ Derek Campbell - One of the original members of the group. Derek was an active e
 <img src="https://secure.meetupstatic.com/photos/member/a/b/1/a/member_89983802.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-Bob Shand - Another original member of the group. Bob was an early speaker at many events and helped run many of our most successful events. Much of the growth of the group can be attributed to Bob's work wtih Hackathons. Bob left the elder group after an employment change. You will now find Bob hosting Security B-Side conferences.
+<strong>Bob Shand</strong> - Another original member of the group. Bob was an early speaker at many events and helped run many of our most successful events. Much of the growth of the group can be attributed to Bob's work wtih Hackathons. Bob left the elder group after an employment change. You will now find Bob hosting Security B-Side conferences.
 </div>
 </article>
 
@@ -89,6 +89,6 @@ Bob Shand - Another original member of the group. Bob was an early speaker at ma
 <img src="https://secure.meetupstatic.com/s/img/2982428616572973604/noPhoto_80.gif" /> 
 </figure>
 <div class="loop__content clearfix">
-Ryan Palmer - Original Member of the group. Ryan taught the group early about tinkering with gadgets and Continuous Integration. Ryan was always a positive influence on the group until an employment opportunity took his talents to Toronto.
+<strong>Ryan Palmer</strong> - Original Member of the group. Ryan taught the group early about tinkering with gadgets and Continuous Integration. Ryan was always a positive influence on the group until an employment opportunity took his talents to Toronto.
 </div>
 </article>
