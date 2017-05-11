@@ -46,7 +46,7 @@ The elders are those who are willing to help organize the events. Anyone is welc
 <img src="https://secure.meetupstatic.com/photos/member/d/8/6/0/member_163435392.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Evan Porter</strong> - 
+<strong>Evan Porter</strong> - Evan Porter has been working in the IT field for over a decade. He has extensive experience using Java and JavaScript professionally and likes Python and Clojure for fun. Attending PEI Devs since December 2012, he became an Elder in March 2016. Evan feels old and hates writing in third person. Only Bob Dole should refer to himself in the third person.
 </div>
 </article>
 
@@ -55,7 +55,7 @@ The elders are those who are willing to help organize the events. Anyone is welc
 <img src="https://secure.meetupstatic.com/photos/member/2/5/8/2/member_162429602.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Matt Duffy</strong> - 
+<strong>Matt Duffy</strong> - Bio Pending
 </div>
 </article>
 
@@ -64,7 +64,7 @@ The elders are those who are willing to help organize the events. Anyone is welc
 <img src="https://secure.meetupstatic.com/s/img/2982428616572973604/noPhoto_80.gif" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Michael Berger</strong> - 
+<strong>Michael Berger</strong> - <silence>
 </div>
 </article>
 
@@ -73,7 +73,7 @@ The elders are those who are willing to help organize the events. Anyone is welc
 <img src="https://secure.meetupstatic.com/photos/member/1/0/9/9/member_246964249.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Michael Gauthier</strong> - 
+<strong>Michael Gauthier</strong> - &#x2694
 </div>
 </article>
 
@@ -82,7 +82,7 @@ The elders are those who are willing to help organize the events. Anyone is welc
 <img src="https://secure.meetupstatic.com/photos/member/8/2/8/5/member_263913413.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Nolan Phillips</strong> - 
+<strong>Nolan Phillips</strong> - My name is Nolan and I like to pary
 </div>
 </article>
 
@@ -103,7 +103,7 @@ Our semi-retired elders you will see in events and still wear the elder hat. But
 <img src="https://secure.meetupstatic.com/photos/member/4/b/c/0/member_156379392.jpeg" /> 
 </figure>
 <div class="loop__content clearfix">
-<strong>Michael Easter</strong> - The wisest in the group. Michael bring a wealth of knowledge and a calming demenor to the group. Michaels work in various events has helped grow the group tremendously. Michaels biggest contribution to the group has been his work with Open Data and the Open Data book club. Michael is stepping back in 2017 to focus on the book club and to take a break after carrying the elder torch for the last 4.5 years.
+<strong>Michael Easter</strong> - An early co-organizer of the group, Michael has given several presentations, performed 'cat-herding' logistics, and sponsored the rare MeetUp. An advocate of Open Data, he founded and sponsors the PEI Open Data Book Club as a side-project within the PEI Devs umbrella. Michaael is stepping back in 2017 after carrying the elder torch for several years.
 </div>
 </article>
 
@@ -143,5 +143,14 @@ These folks put in a lot of effort to make the group what it is today. Because o
 </figure>
 <div class="loop__content clearfix">
 <strong>Ryan Palmer</strong> - Original Member of the group. Ryan taught the group early about tinkering with gadgets and Continuous Integration. Ryan was always a positive influence on the group until an employment opportunity took his talents to Toronto.
+</div>
+</article>
+
+<article class="loop__item post clearfix">
+<figure class="loop__thumbnail">
+<img src="https://secure.meetupstatic.com/s/img/2982428616572973604/noPhoto_80.gif" /> 
+</figure>
+<div class="loop__content clearfix">
+<strong>Steven Baker</strong> - He lived in Summerside for 2-3 years and was a co-organizer for some meetups and esp. the August 2013 hackathon. He was also a sponsor on occasion. Steven now lives in Sweden
 </div>
 </article>
