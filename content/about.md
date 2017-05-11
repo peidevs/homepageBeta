@@ -8,7 +8,10 @@ title = "About PEI Developers"
 type = "page"
 
 +++
-## Who are we?
+
+
+## Who we are
+
 PEI Developers is simply an informal group of software developers, web designers, and other techies.
 
 We meet monthly, and organize hackathons on occasion. Some time back, our co-organizers drafted a mission statement. Here it is…
@@ -24,22 +27,35 @@ At PEI Developers, we value:
 **Community**.  We want to interact with existing organizations to build a “tech scene” on PEI. We’ll work with government, industry, schools, youth: you name it. We’re opinionated, independent, and eager to help
 
 ## History
+
 Founded in 2012 by Dustin Sparks. The group originated in the old Queen Street commons.
 
 ## Elders
+
 #### Current
+
 * Evan Porter
+
 * Matt Duffy
+
 * Michael Bruger
+
 * Michael Gauthier
+
 * Nolan Phillips
 
 #### Semi Retired
+
 * Sean Whalley
-* Michael Easter 
+
+* Michael Easter
 
 #### Retired
+
 * Dustin Sparks
+
 * Derek Campbell
+
 * Bob Shand
+
 * Ryan Palmer
