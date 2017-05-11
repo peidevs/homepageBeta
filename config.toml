@@ -26,6 +26,10 @@ name = "About"
 url = "/about/"
 weight = 1
 [[menu.side]]
+name = "Event History"
+url = "https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv"
+weight = 1
+[[menu.side]]
 name = "Ladies Learning Code"
 url = "http://ladieslearningcode.com/chapters/prince-edward-island/"
 weight = 1
