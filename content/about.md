@@ -28,7 +28,15 @@ At PEI Developers, we value:
 
 ## History
 
-Founded in 2012 by Dustin Sparks. The group originated in the old Queen Street commons.
+Founded in 2012 by Dustin Sparks. The group spent many of its first years huddled around the big table in the old Queen Street Commons. During the time the group had a small but very dedicated core group of members.
+
+After the closure of our original venue the group spent some time bouncing around various venues. We have held events at the Yacht Club, Murphy's Community Centre, Charlottetown Legion and Samuel's Coffee House to name a few. In 2016 the group found a new home at the Startup Zone.
+
+The group has grown considerably over the years. In the beginning there were 6-10 members at every meetup and if 15 showed up we would try and squeeze in. Recent years have seen a substantial growth where some events have seen upwards of 50 people.
+
+<span style="font-size: 1rem;">Part of the growth is attributed to the various events held by the group through the years. This include Hackathons, participation in Global Day of Code Retreat as well as our summer social.&nbsp;</span>
+
+<span style="font-size: 1rem;">The growth of the group has been recognized in many different areas. There have been new groups popping up in PEI either directly from our group (Open Data Book Club) or our work has influenced their creation (UI/UX). This is an area that we are very proud of. To be part of and see the growth of the tech community here in PEI is important to us.&nbsp;</span>
 
 ## Elders
 
